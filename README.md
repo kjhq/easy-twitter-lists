@@ -1,8 +1,7 @@
 # Twitter Easy List
 
-I've made this simple extension to make adding people to lists a tad bit easier.
+A simple Chrome extension to make adding people to Twitter Lists easier.
 
-### TODO
- - Add Firefox Support
- - Make lists variable refreshable
- - Rewrite in TypeScript
+## Roadmap
+
+See [open issues](https://github.com/ThunderDrag/Twitter-Easy-List/issues) for planned improvements and feature requests.
